@@ -37,10 +37,6 @@ ansible-playbook harden-al2.yml
 
 - [Ansible](https://ansible.com)
 
-## License
-
-This project is licensed under the Apache License 2.0. For more details, please see the [LICENSE](./LICENSE.md) file.
-
 ## Author Information
 
 This project is a collaborative effort between multiple contributors from MITRE and the open-source community (VMware).
